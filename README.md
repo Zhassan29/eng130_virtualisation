@@ -1,1 +1,11 @@
-cdsjcvb
+- Run upgrade `sudo apt-get upgrade -y`
+- check internet conectivity  `sudo apt-get update`
+- Run upgrade `sudo apt-get upgrade -y`
+- where am i `pwd`
+- `whoami`-folder name, `uname`-gives OS used in vm or `uname -a` - version of $
+- how to create a file in linux `touch 'filename'` & `nano filename`
+- check files available in current location - `ls`
+- navigate to folder `cd folder name`
+- how to navigate out of folder `cd..` or 'cd' enter
+- how to delete a file/foldername' research how to copy file from 1 location to$
+- copy test.txt into app folder
