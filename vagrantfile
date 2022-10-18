@@ -1,0 +1,10 @@
+#vagrant
+# creating a VM with linux os using ubuntu 16.04LTS
+Vagrant.configure("2") do |config|
+
+
+ config.vm.box = "ubuntu/xenial64"
+#creating a virtual box machine ubuntu
+
+
+end
