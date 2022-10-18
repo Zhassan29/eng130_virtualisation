@@ -55,7 +55,7 @@ to print from the bottom you would use `tail -n [value] filename`
 - `sudo systemctl start nginx` starts process
 
 
-/Users/maiza/eng130_virtualisation/images/dev_eng
+![](images/dev_eng.png)
 
 
 # What is virtualisation
